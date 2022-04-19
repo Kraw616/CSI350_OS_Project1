@@ -1,5 +1,5 @@
 # CSI350_OS_Project1
-Welcome to Operating Systems Project 1: Scheduler simulation!  
+Welcome to Operating Systems Project 1: Scheduler Simulation!  
 Author: Jacob Krawitz  
 Professor: Dr. Helsing  
 Muhlenberg College, 2022  
